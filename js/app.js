@@ -320,9 +320,9 @@ window.toggleSidebar = function() {
   }
 };
 
-/* ---- About card ---- */
-window.openAbout  = () => document.getElementById('about-card-overlay').classList.add('open');
-window.closeAbout = () => document.getElementById('about-card-overlay').classList.remove('open');
+/* ---- About modal ---- */
+window.openAbout  = () => document.getElementById('about-modal').classList.add('open');
+window.closeAbout = () => document.getElementById('about-modal').classList.remove('open');
 
 /* ---- Apply filters ---- */
 function applyFilters() {
