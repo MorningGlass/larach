@@ -206,13 +206,13 @@ function panForCard(lat, lng) {
     // Offset X: centre in visible area to right of sidebar
     const offsetX = sidebarWidth / 2;
     // Offset Y: move pin down so there's room for card above (card is ~400px tall)
-    const offsetY = -mapH * 0.2;
+    const offsetY = -mapH * 0.35;
     const targetPx = map.project([lat, lng], zoom).subtract([offsetX, offsetY]);
     map.setView(map.unproject(targetPx, zoom), zoom, { animate: true });
   } else {
     // Mobile: offset pin down to make room for card
     const mapH = map.getSize().y;
-    const offsetY = -mapH * 0.15;
+    const offsetY = -mapH * 0.3;
     const targetPx = map.project([lat, lng], zoom).subtract([0, offsetY]);
     map.setView(map.unproject(targetPx, zoom), zoom, { animate: true });
   }
