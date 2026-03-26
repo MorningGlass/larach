@@ -206,7 +206,7 @@ function panForCard(lat, lng) {
     // Offset X: centre in visible area to right of sidebar
     const offsetX = sidebarWidth / 2;
     // Offset Y: move pin down so there's room for card above (card is ~400px tall)
-    const offsetY = -mapH * 0.45;
+    const offsetY = -mapH * 0.5;
     const targetPx = map.project([lat, lng], zoom).subtract([offsetX, offsetY]);
     map.setView(map.unproject(targetPx, zoom), zoom, { animate: true });
   } else {
