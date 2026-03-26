@@ -53,6 +53,16 @@
         </div>
       </div>
 
+      <!-- About card -->
+      <div id="about-card-overlay">
+        <div id="about-card">
+          <button class="card-close" onclick="closeAbout()">&#10005;</button>
+          <h2 class="card-title">About this map</h2>
+          <p>This map documents the ruined buildings and other historic sites of the Coigach peninsula in Wester Ross, Scotland.</p>
+          <p>Each pin marks a site photographed and recorded by Iain Young. Click any pin to view photographs and details.</p>
+        </div>
+      </div>
+
     </div><!-- /main -->
   </div><!-- /app -->
 
@@ -73,16 +83,7 @@
     <button id="lightbox-close" onclick="closeLightbox()">&#10005;</button>
   </div>
 
-  <!-- About modal -->
-  <div class="modal-overlay" id="about-modal" onclick="closeAbout()">
-    <div class="modal-box" onclick="event.stopPropagation()">
-      <h2>About this map</h2>
-      <p>This map documents the ruined buildings and other historic sites of the Coigach peninsula in Wester Ross, Scotland.</p>
-      <p>Each pin marks a site photographed and recorded by Iain Young. Click any pin to view photographs and details.</p>
-      <button class="modal-close-btn" onclick="closeAbout()">Close</button>
-    </div>
-  </div>
-
+  
   <script src="js/app.js"></script>
 </body>
 </html>
