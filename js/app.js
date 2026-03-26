@@ -195,19 +195,26 @@ function formatDate(str) {
   return `${d}/${m}/${y}`;
 }
 
-/* ---- Pan so pin is visible to the right of both cards ---- */
+/* ---- Pan so pin is centred with card above it ---- */
 function panForCard(lat, lng) {
-  const zoom = Math.max(map.getZoom(), 14);
+  const zoom = Math.max(map.getZoom(), 15);
   if (window.innerWidth > 680) {
-    // sidebar (300px) + gap (24px) + detail card (360px) + right gap (12px) = 696px blocked on left
-    const blockedLeft = 696;
+    // Sidebar is 300px + padding. Centre pin in remaining area, offset down so card appears above
+    const sidebarWidth = 324;
     const mapW = map.getSize().x;
-    // Centre the pin in the remaining visible map area
-    const offsetX = (blockedLeft + mapW) / 2 - mapW / 2;
-    const targetPx = map.project([lat, lng], zoom).subtract([offsetX, 0]);
+    const mapH = map.getSize().y;
+    // Offset X: centre in visible area to right of sidebar
+    const offsetX = sidebarWidth / 2;
+    // Offset Y: move pin down so there's room for card above (card is ~400px tall)
+    const offsetY = -mapH * 0.2;
+    const targetPx = map.project([lat, lng], zoom).subtract([offsetX, offsetY]);
     map.setView(map.unproject(targetPx, zoom), zoom, { animate: true });
   } else {
-    map.setView([lat, lng], zoom, { animate: true });
+    // Mobile: offset pin down to make room for card
+    const mapH = map.getSize().y;
+    const offsetY = -mapH * 0.15;
+    const targetPx = map.project([lat, lng], zoom).subtract([0, offsetY]);
+    map.setView(map.unproject(targetPx, zoom), zoom, { animate: true });
   }
 }
 

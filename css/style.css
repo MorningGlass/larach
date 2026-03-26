@@ -249,15 +249,15 @@ html, body { height: 100%; font-family: var(--font-sans); color: var(--color-tex
 #site-card-overlay {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 324px;
   bottom: 0;
   right: 0;
   z-index: 400;
   pointer-events: none;
   display: flex;
   align-items: flex-start;
-  justify-content: flex-start;
-  padding: 0.75rem 0.75rem 0.75rem calc(300px + 1.5rem);
+  justify-content: center;
+  padding: 0.75rem;
   opacity: 0;
   transition: opacity 0.22s ease;
 }
@@ -584,7 +584,7 @@ html, body { height: 100%; font-family: var(--font-sans); color: var(--color-tex
   }
   #sidebar.mobile-open { transform: translateX(0); }
 
-  #site-card-overlay { padding: 0.75rem; }
+  #site-card-overlay { left: 0; padding: 0.75rem; }
   #site-card { padding: 1.25rem; }
   .card-title { font-size: 1.2rem; }
   .card-img { height: 220px; }
