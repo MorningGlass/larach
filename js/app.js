@@ -4,7 +4,7 @@
    Images: data/photo/<filename>
    ============================================= */
 
-const IMG_PATH = 'data/photo/';
+const IMG_PATH = './data/photo/';
 
 const PIN_COLOUR = '#C0AE9E';
 
@@ -71,7 +71,7 @@ function initMap() {
 
 /* ---- Load data ---- */
 async function loadData() {
-  const res = await fetch('data/sites.geojson');
+  const res = await fetch('./data/sites.geojson');
   if (!res.ok) throw new Error('Could not load sites.geojson');
   const geojson = await res.json();
   return geojson.features;
