@@ -1,0 +1,1820 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.31729,
+          57.99415
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 09",
+        "township": "Acheninver",
+        "category": "Enclosure",
+        "caption": "Enclosure by burn at Acheninver shore",
+        "os_grid": "NC 04027 05363",
+        "altitude": "7",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1045-1.jpg",
+            "caption": "Enclosure by burn at Acheninver shore"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.31544,
+          57.99512
+        ]
+      },
+      "properties": {
+        "name": "Ruin 50",
+        "township": "Acheninver",
+        "category": "Ruin",
+        "caption": "House by Allt Ach' a' Bhraighe (burn to beach at Acheninver)",
+        "os_grid": "NC 04141 05465",
+        "altitude": "12",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1036-1.jpg",
+            "caption": "House by Allt Ach' a' Bhraighe (burn to beach at Acheninver)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3347,
+          58.02439
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 07",
+        "township": "Achiltibuie",
+        "category": "Enclosure",
+        "caption": "Sheepfold by hut circles above Achiltibuie",
+        "os_grid": "NC 03164 08778",
+        "altitude": "64",
+        "photo_date": "2024-04-01",
+        "images": [
+          {
+            "file": "_DSC5296-1.jpg",
+            "caption": "Sheepfold by hut circles above Achiltibuie"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32348,
+          58.02247
+        ]
+      },
+      "properties": {
+        "name": "Hut circle",
+        "township": "Achiltibuie",
+        "category": "Hut circle",
+        "caption": "Hut circles above the village",
+        "os_grid": "NC 03816 08531",
+        "altitude": "103",
+        "photo_date": "2024-04-01",
+        "images": [
+          {
+            "file": "_DSC5322-1.jpg",
+            "caption": "Hut circles above the village"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.35167,
+          58.02333
+        ]
+      },
+      "properties": {
+        "name": "Ruin 01",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "Ruin west of the Old Post Office, remains of farm implements and wooden lintel",
+        "os_grid": "NC 02150 08712",
+        "altitude": "21",
+        "photo_date": "2024-08-05",
+        "images": [
+          {
+            "file": "_DSC5747-1.jpg",
+            "caption": "Ruin west of the Old Post Office, remains of farm implements and wooden lintel"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34889,
+          58.02361
+        ]
+      },
+      "properties": {
+        "name": "Ruin 07",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "House, north of the Post Office",
+        "os_grid": "NC 02328 08717",
+        "altitude": "31",
+        "photo_date": "2024-04-01",
+        "images": [
+          {
+            "file": "_DSC5325-1.jpg",
+            "caption": "House, north of the Post Office"
+          },
+          {
+            "file": "_DSC5330-1.jpg",
+            "caption": "House, north of the Post Office, fireplace detail"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34306,
+          58.01694
+        ]
+      },
+      "properties": {
+        "name": "Ruin 13",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "Small building or enclosure by the hydroponicum site",
+        "os_grid": "NC 02633 07983",
+        "altitude": "29",
+        "photo_date": "2024-03-10",
+        "images": [
+          {
+            "file": "_DSC5053-1.jpg",
+            "caption": "Small building or enclosure by the hydroponicum site"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34083,
+          58.015
+        ]
+      },
+      "properties": {
+        "name": "Ruin 14",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "Double walls leading to building, west of the old drill hall",
+        "os_grid": "NC 02744 07741",
+        "altitude": "33",
+        "photo_date": "2024-03-10",
+        "images": [
+          {
+            "file": "_DSC5058-1.jpg",
+            "caption": "Double walls leading to building, west of the old drill hall"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34361,
+          58.01639
+        ]
+      },
+      "properties": {
+        "name": "Ruin 15",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "Small building just south of the hydroponicum debris",
+        "os_grid": "NC 02598 07926",
+        "altitude": "29",
+        "photo_date": "2024-03-10",
+        "images": [
+          {
+            "file": "_DSC5054-1.jpg",
+            "caption": "Small building just south of the hydroponicum debris"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.345,
+          58.01722
+        ]
+      },
+      "properties": {
+        "name": "Ruin 16",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "House just north of hydroponicum site",
+        "os_grid": "NC 02524 07997",
+        "altitude": "25",
+        "photo_date": "2025-05-24",
+        "images": [
+          {
+            "file": "_DSC9124-1.jpg",
+            "caption": "House just north of hydroponicum site"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34504,
+          58.01658
+        ]
+      },
+      "properties": {
+        "name": "Ruin 34",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "The White House, hydroponicum site, oldest house in Coigach?",
+        "os_grid": "NC 02511 07939",
+        "altitude": "24",
+        "photo_date": "2025-05-24",
+        "images": [
+          {
+            "file": "_DSC9097-1.jpg",
+            "caption": "The White House, hydroponicum site, oldest house in Coigach?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3453,
+          58.02055
+        ]
+      },
+      "properties": {
+        "name": "Ruin 36",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "House east of bend in the road",
+        "os_grid": "NC 02518 08381",
+        "altitude": "30",
+        "photo_date": "2025-09-12",
+        "images": [
+          {
+            "file": "_DSC0113-1.jpg",
+            "caption": "House east of bend in the road"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34455,
+          58.02171
+        ]
+      },
+      "properties": {
+        "name": "Ruin 38",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "Indeterminate shell, by the electricity line east of Raon Mor",
+        "os_grid": "NC 02568 08508",
+        "altitude": "34",
+        "photo_date": "2025-09-12",
+        "images": [
+          {
+            "file": "_DSC0125-1.jpg",
+            "caption": "Indeterminate shell, by the electricity line east of Raon Mor"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34491,
+          58.02099
+        ]
+      },
+      "properties": {
+        "name": "Ruin 39",
+        "township": "Achiltibuie",
+        "category": "Ruin",
+        "caption": "House south east of Raon Mor, wooden fireplace lintel",
+        "os_grid": "NC 02543 08429",
+        "altitude": "31",
+        "photo_date": "2025-09-12",
+        "images": [
+          {
+            "file": "_DSC0118-1.jpg",
+            "caption": "House south east of Raon Mor, wooden fireplace lintel"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34183,
+          58.01467
+        ]
+      },
+      "properties": {
+        "name": "Walls 01",
+        "township": "Achiltibuie",
+        "category": "Walls",
+        "caption": "Looking east along the old wall, that crosses the road below the old drill hall",
+        "os_grid": "NC 02690 07717",
+        "altitude": "30",
+        "photo_date": "2024-04-01",
+        "images": [
+          {
+            "file": "_DSC5317-1.jpg",
+            "caption": "Looking east along the old wall, that crosses the road below the old drill hall"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34347,
+          58.01648
+        ]
+      },
+      "properties": {
+        "name": "Walls 03",
+        "township": "Achiltibuie",
+        "category": "Walls",
+        "caption": "Walls and building just east of hydroponicum site",
+        "os_grid": "NC 02603 07923",
+        "altitude": "29",
+        "photo_date": "2025-05-24",
+        "images": [
+          {
+            "file": "_DSC9088-1.jpg",
+            "caption": "Walls and building just east of hydroponicum site"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34319,
+          58.02075
+        ]
+      },
+      "properties": {
+        "name": "Walls 04",
+        "township": "Achiltibuie",
+        "category": "Walls",
+        "caption": "Double walls",
+        "os_grid": "NC 02643 08397",
+        "altitude": "38",
+        "photo_date": "2025-09-12",
+        "images": [
+          {
+            "file": "_DSC0104-1.jpg",
+            "caption": "Double walls"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33947,
+          58.00666
+        ]
+      },
+      "properties": {
+        "name": "Beach Modifications 01",
+        "township": "Achlochan",
+        "category": "Beach Modifications",
+        "caption": "Landing/launching shelter and clearance on beach SW of the broch at Achlochan",
+        "os_grid": "NC 02785 06819",
+        "altitude": "2",
+        "photo_date": "2025-12-07",
+        "images": [
+          {
+            "file": "_DSC1062-1.jpg",
+            "caption": "Landing/launching shelter and clearance on beach SW of the broch at Achlochan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33942,
+          58.00664
+        ]
+      },
+      "properties": {
+        "name": "Beach Modifications 03",
+        "township": "Achlochan",
+        "category": "Beach Modifications",
+        "caption": "Landing/launching shelter and clearance on beach SW of the broch at Achlochan",
+        "os_grid": "NC 02788 06817",
+        "altitude": "2",
+        "photo_date": "2025-12-07",
+        "images": [
+          {
+            "file": "_DSC1063-1.jpg",
+            "caption": "Landing/launching shelter and clearance on beach SW of the broch at Achlochan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33767,
+          58.00784
+        ]
+      },
+      "properties": {
+        "name": "Broch",
+        "township": "Achlochan",
+        "category": "Broch",
+        "caption": "Broch between ruined house and wall",
+        "os_grid": "NC 02898 06945",
+        "altitude": "8",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0597-1.jpg",
+            "caption": "Broch between ruined house and wall"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34333,
+          58.00889
+        ]
+      },
+      "properties": {
+        "name": "Cairns 01",
+        "township": "Achlochan",
+        "category": "Cairns",
+        "caption": "Cairns, Achlochan - possible clearance or older",
+        "os_grid": "NC 02575 07081",
+        "altitude": "14",
+        "photo_date": "2024-04-23",
+        "images": [
+          {
+            "file": "_DSC5382-1.jpg",
+            "caption": "Cairns, Achlochan - possible clearance or older"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34083,
+          58.00778
+        ]
+      },
+      "properties": {
+        "name": "Ruin 03",
+        "township": "Achlochan",
+        "category": "Ruin",
+        "caption": "Southern house in row west of the broch. Note external render, concrete capping stone and chimney",
+        "os_grid": "NC 02707 06948",
+        "altitude": "6",
+        "photo_date": "2024-04-23",
+        "images": [
+          {
+            "file": "_DSC5358-1.jpg",
+            "caption": "Southern house in row west of the broch. Note external render, concrete capping stone and chimney"
+          },
+          {
+            "file": "_DSC5361-1.jpg",
+            "caption": "Southern house in row west of the broch - fireplace detail"
+          },
+          {
+            "file": "_DSC5364-1.jpg",
+            "caption": "Southern house in row west of the broch - chimney detail with imprint of thatch"
+          },
+          {
+            "file": "_DSC5366-1.jpg",
+            "caption": "Southern house in row west of the broch - fireplace detail"
+          },
+          {
+            "file": "_DSC5368-1.jpg",
+            "caption": "Southern house in row west of the broch - external render detail"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33806,
+          58.00778
+        ]
+      },
+      "properties": {
+        "name": "Ruin 04",
+        "township": "Achlochan",
+        "category": "Ruin",
+        "caption": "House on west side of the broch, ACHP Building 2",
+        "os_grid": "NC 02882 06941",
+        "altitude": "8",
+        "photo_date": "2024-04-23",
+        "images": [
+          {
+            "file": "_DSC5355-1.jpg",
+            "caption": "House on west side of the broch, ACHP Building 2"
+          },
+          {
+            "file": "_DSC5081-1.jpg",
+            "caption": "House on west side of the broch, ACHP Building 1 - the Black House"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34556,
+          58.00917
+        ]
+      },
+      "properties": {
+        "name": "Ruin 05",
+        "township": "Achlochan",
+        "category": "Ruin",
+        "caption": "Ruin west of the White House on the Achlochan peninsula",
+        "os_grid": "NC 02440 07127",
+        "altitude": "19",
+        "photo_date": "2024-04-23",
+        "images": [
+          {
+            "file": "_DSC5391-1.jpg",
+            "caption": "Ruin west of the White House on the Achlochan peninsula "
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.34889,
+          58.01111
+        ]
+      },
+      "properties": {
+        "name": "Ruin 48",
+        "township": "Achlochan",
+        "category": "Ruin",
+        "caption": "Old rifle range target shelter",
+        "os_grid": "NC 02253 07340",
+        "altitude": "15",
+        "photo_date": "2024-04-23",
+        "images": [
+          {
+            "file": "_DSC5396-1.jpg",
+            "caption": "Old rifle range target shelter "
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38024,
+          58.06805
+        ]
+      },
+      "properties": {
+        "name": "Cairns 02",
+        "township": "Achnahaird",
+        "category": "Cairns",
+        "caption": "Clearance cairn",
+        "os_grid": "NC 00720 13769",
+        "altitude": "35",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0143-1.jpg",
+            "caption": "Clearance cairn"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38033,
+          58.06732
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 03",
+        "township": "Achnahaird",
+        "category": "Enclosure",
+        "caption": "Enclosure",
+        "os_grid": "NC 00710 13688",
+        "altitude": "35",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0152-1.jpg",
+            "caption": "Enclosure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.35908,
+          58.05799
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 05",
+        "township": "Achnahaird",
+        "category": "Enclosure",
+        "caption": "Sheepfold, Raa",
+        "os_grid": "NC 01911 12587",
+        "altitude": "10",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0672-1.jpg",
+            "caption": "Sheepfold, Raa"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.345,
+          58.07611
+        ]
+      },
+      "properties": {
+        "name": "Ruin 25",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "External render detail - salmon bothy Camas a' Bhothain between Achnahaird bay and Garvie Bay",
+        "os_grid": "NC 02849 14563",
+        "altitude": "2",
+        "photo_date": "2025-06-03",
+        "images": [
+          {
+            "file": "_DSC9156-1.jpg",
+            "caption": "External render detail - salmon bothy Camas a' Bhothain between Achnahaird bay and Garvie Bay"
+          },
+          {
+            "file": "DSC_3432-1.jpg",
+            "caption": "Salmon bothy Camas a' Bhothain between Achnahaird bay and Garvie Bay"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.31028,
+          58.06778
+        ]
+      },
+      "properties": {
+        "name": "Ruin 26",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "Salmon bothy at Lag na Saille",
+        "os_grid": "NC 04843 13520",
+        "altitude": "4",
+        "photo_date": "2025-01-25",
+        "images": [
+          {
+            "file": "_DSC8371-1.jpg",
+            "caption": "Salmon bothy at Lag na Saille"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36361,
+          58.06278
+        ]
+      },
+      "properties": {
+        "name": "Ruin 27",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "Remains of Norse house, Achnahaird beach",
+        "os_grid": "NC 01667 13140",
+        "altitude": "8",
+        "photo_date": "2025-01-26",
+        "images": [
+          {
+            "file": "_DSC8459-1.jpg",
+            "caption": "Remains of Norse house, Achnahaird beach"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38141,
+          58.06852
+        ]
+      },
+      "properties": {
+        "name": "Ruin 40",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "House, with enclosure behind (not shown)",
+        "os_grid": "NC 00653 13824",
+        "altitude": "36",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0139-1.jpg",
+            "caption": "House, with enclosure behind (not shown)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38153,
+          58.06822
+        ]
+      },
+      "properties": {
+        "name": "Ruin 41",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "Building outline, older than most?",
+        "os_grid": "NC 00645 13791",
+        "altitude": "37",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0141-1.jpg",
+            "caption": "Building outline, older than most?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38087,
+          58.06658
+        ]
+      },
+      "properties": {
+        "name": "Ruin 42",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "House (known as old hen house?), concrete lintels, corrugated iron remains, wooden rafter",
+        "os_grid": "NC 00674 13607",
+        "altitude": "36",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0160-1.jpg",
+            "caption": "House (known as old hen house?), concrete lintels, corrugated iron remains, wooden rafter"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38002,
+          58.06652
+        ]
+      },
+      "properties": {
+        "name": "Ruin 43",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "Outbuilding? and farm machinery",
+        "os_grid": "NC 00724 13598",
+        "altitude": "34",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0161-1.jpg",
+            "caption": "Outbuilding? and farm machinery"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.37911,
+          58.06623
+        ]
+      },
+      "properties": {
+        "name": "Ruin 44",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "House and attached outbuilding, corrugated iron roof",
+        "os_grid": "NC 00776 13563",
+        "altitude": "31",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0178-1.jpg",
+            "caption": "House and attached outbuilding, corrugated iron roof"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.37935,
+          58.06592
+        ]
+      },
+      "properties": {
+        "name": "Ruin 45",
+        "township": "Achnahaird",
+        "category": "Ruin",
+        "caption": "Small building",
+        "os_grid": "NC 00760 13529",
+        "altitude": "32",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0182-1.jpg",
+            "caption": "Small building"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.37447,
+          58.06534
+        ]
+      },
+      "properties": {
+        "name": "Walls 05",
+        "township": "Achnahaird",
+        "category": "Walls",
+        "caption": "Zig zag wall",
+        "os_grid": "NC 01045 13450",
+        "altitude": "18",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0185-1.jpg",
+            "caption": "Zig zag wall"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.37856,
+          58.06849
+        ]
+      },
+      "properties": {
+        "name": "Walls 06",
+        "township": "Achnahaird",
+        "category": "Walls",
+        "caption": "Boundary wall",
+        "os_grid": "NC 00821 13813",
+        "altitude": "24",
+        "photo_date": "2025-09-13",
+        "images": [
+          {
+            "file": "_DSC0145-1.jpg",
+            "caption": "Boundary wall"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.3025,
+          58.00194
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 02",
+        "township": "Achvraie",
+        "category": "Enclosure",
+        "caption": "Enclosure up burn below turbine (Allt Ach' a' Bhraighe)",
+        "os_grid": "NC 04940 06174",
+        "altitude": "113",
+        "photo_date": "2024-12-26",
+        "images": [
+          {
+            "file": "_DSC8225-1.jpg",
+            "caption": "Enclosure up burn below turbine (Allt Ach' a' Bhraighe)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32194,
+          58.00957
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 04",
+        "township": "Badenscallie",
+        "category": "Enclosure",
+        "caption": "Sheepfold to east of the road",
+        "os_grid": "NC 03836 07092",
+        "altitude": "84",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0576-1.jpg",
+            "caption": "Sheepfold to east of the road"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32611,
+          58.00083
+        ]
+      },
+      "properties": {
+        "name": "Ruin 09",
+        "township": "Badenscallie",
+        "category": "Ruin",
+        "caption": "Katy MacLeod's (?)  house",
+        "os_grid": "NC 03543 06131",
+        "altitude": "6",
+        "photo_date": "2024-12-26",
+        "images": [
+          {
+            "file": "_DSC8140-1.jpg",
+            "caption": "Katy MacLeod's (?)  house "
+          },
+          {
+            "file": "_DSC8171-1.jpg",
+            "caption": "Katy MacLeod's (?)  house  - hingin lum"
+          },
+          {
+            "file": "_DSC8844-1.jpg",
+            "caption": "Katy MacLeod's (?)  house  - rubble build"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32111,
+          57.99889
+        ]
+      },
+      "properties": {
+        "name": "Ruin 10",
+        "township": "Badenscallie",
+        "category": "Ruin",
+        "caption": "House and enclosure",
+        "os_grid": "NC 03829 05915",
+        "altitude": "21",
+        "photo_date": "2024-04-25",
+        "images": [
+          {
+            "file": "_DSC5411-1-2.jpg",
+            "caption": "House and enclosure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.31861,
+          57.99889
+        ]
+      },
+      "properties": {
+        "name": "Ruin 11",
+        "township": "Badenscallie",
+        "category": "Ruin",
+        "caption": "Small shelter / hut",
+        "os_grid": "NC 03969 05891",
+        "altitude": "38",
+        "photo_date": "2024-04-25",
+        "images": [
+          {
+            "file": "_DSC5426-1.jpg",
+            "caption": "Small shelter / hut"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32,
+          58.00056
+        ]
+      },
+      "properties": {
+        "name": "Ruin 12",
+        "township": "Badenscallie",
+        "category": "Ruin",
+        "caption": "House above Badenscallie cemetery",
+        "os_grid": "NC 03900 06091",
+        "altitude": "37",
+        "photo_date": "2024-04-25",
+        "images": [
+          {
+            "file": "_DSC5413-1.jpg",
+            "caption": "House above Badenscallie cemetery"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36883,
+          58.03166
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 06",
+        "township": "Badentarbet",
+        "category": "Enclosure",
+        "caption": "Sheepfold, largest and most complex on the peninsula",
+        "os_grid": "NC 01190 09686",
+        "altitude": "7",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0638-1.jpg",
+            "caption": "Sheepfold, largest and most complex on the peninsula"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.44375,
+          58.07919
+        ]
+      },
+      "properties": {
+        "name": "Lazy Beds 02",
+        "township": "Camas a' Ghlais' Lean",
+        "category": "Lazy Beds",
+        "caption": "Walls, enclosure, house and lazy beds",
+        "os_grid": "NB 97039 15197",
+        "altitude": "35",
+        "photo_date": "2025-12-08",
+        "images": [
+          {
+            "file": "_DSC1116-1.jpg",
+            "caption": "Walls, enclosure, house and lazy beds"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.44502,
+          58.08367
+        ]
+      },
+      "properties": {
+        "name": "Road 01",
+        "township": "Camas a' Ghlais' Lean",
+        "category": "Road",
+        "caption": "Built up track/road at Camas a’ Galas Lean",
+        "os_grid": "NB 96990 15700",
+        "altitude": "25",
+        "photo_date": "2025-12-08",
+        "images": [
+          {
+            "file": "_DSC1081-1.jpg",
+            "caption": "Built up track/road at Camas a’ Galas Lean"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.44454,
+          58.08188
+        ]
+      },
+      "properties": {
+        "name": "Ruin 19",
+        "township": "Camas a' Ghlais' Lean",
+        "category": "Ruin",
+        "caption": "House",
+        "os_grid": "NB 97008 15499",
+        "altitude": "23",
+        "photo_date": "2024-11-28",
+        "images": [
+          {
+            "file": "_DSC8033-1.jpg",
+            "caption": "House"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.44511,
+          58.09351
+        ]
+      },
+      "properties": {
+        "name": "Mill 01",
+        "township": "Faochag",
+        "category": "Mill",
+        "caption": "Remains of mill on Allt nan Clar-Lochan",
+        "os_grid": "NB 97040 16795",
+        "altitude": "5",
+        "photo_date": "2025-12-08",
+        "images": [
+          {
+            "file": "_DSC1107-1.jpg",
+            "caption": "Remains of mill on Allt nan Clar-Lochan"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43261,
+          58.10012
+        ]
+      },
+      "properties": {
+        "name": "Ruin 20",
+        "township": "Faochag",
+        "category": "Ruin",
+        "caption": "House north of Loch na Faochaig",
+        "os_grid": "NB 97814 17492",
+        "altitude": "27",
+        "photo_date": "2024-11-28",
+        "images": [
+          {
+            "file": "_DSC8058-1.jpg",
+            "caption": "House north of Loch na Faochaig"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.42855,
+          58.09973
+        ]
+      },
+      "properties": {
+        "name": "Ruin 21",
+        "township": "Faochag",
+        "category": "Ruin",
+        "caption": "House south west of Loch na Ploytach",
+        "os_grid": "NB 98051 17437",
+        "altitude": "30",
+        "photo_date": "2024-11-28",
+        "images": [
+          {
+            "file": "_DSC8072-1.jpg",
+            "caption": "House south west of Loch na Ploytach"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.415,
+          58.04667
+        ]
+      },
+      "properties": {
+        "name": "Ruin 08",
+        "township": "Old Dornie",
+        "category": "Ruin",
+        "caption": "Partly unroof  building above Old Dornie Harbour",
+        "os_grid": "NB 98544 11506",
+        "altitude": "14",
+        "photo_date": "2024-04-25",
+        "images": [
+          {
+            "file": "_DSC5399-1.jpg",
+            "caption": "Partly unroof  building above Old Dornie Harbour"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.39639,
+          58.04278
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 01",
+        "township": "Polbain",
+        "category": "Enclosure",
+        "caption": "Enclosure below Meall an Fheadain (Polbain hill)",
+        "os_grid": "NB 99623 11013",
+        "altitude": "129",
+        "photo_date": "2024-03-08",
+        "images": [
+          {
+            "file": "_DSC5039-1.jpg",
+            "caption": "Enclosure below Meall an Fheadain (Polbain hill)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.41866,
+          58.0332
+        ]
+      },
+      "properties": {
+        "name": "Ruin 28",
+        "township": "Polbain",
+        "category": "Ruin",
+        "caption": "Refurbished salmon bothy, Rubha a' Mhadaidh-Ruaidh (Fox Point)",
+        "os_grid": "NB 98258 10006",
+        "altitude": "9",
+        "photo_date": "2025-04-21",
+        "images": [
+          {
+            "file": "_DSC9063-1.jpg",
+            "caption": "Refurbished salmon bothy, Rubha a' Mhadaidh-Ruaidh (Fox Point)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33389,
+          58.01194
+        ]
+      },
+      "properties": {
+        "name": "Ruin 17",
+        "township": "Polglass",
+        "category": "Ruin",
+        "caption": "House in row of running between community centre and Polglass",
+        "os_grid": "NC 03140 07375",
+        "altitude": "37",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0570-1.jpg",
+            "caption": "House in row of running between community centre and Polglass"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33083,
+          58.01014
+        ]
+      },
+      "properties": {
+        "name": "Ruin 29",
+        "township": "Polglass",
+        "category": "Ruin",
+        "caption": "House",
+        "os_grid": "NC 03315 07181",
+        "altitude": "37",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0605-1.jpg",
+            "caption": "House"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33289,
+          58.01126
+        ]
+      },
+      "properties": {
+        "name": "Ruin 37",
+        "township": "Polglass",
+        "category": "Ruin",
+        "caption": "Easternmost house in row",
+        "os_grid": "NC 03199 07312",
+        "altitude": "37",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0616-1.jpg",
+            "caption": "Easternmost house in row"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33327,
+          58.01146
+        ]
+      },
+      "properties": {
+        "name": "Ruin 46",
+        "township": "Polglass",
+        "category": "Ruin",
+        "caption": "Row of houses, in the middle, across a little bridge.",
+        "os_grid": "NC 03178 07335",
+        "altitude": "38",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0621-1.jpg",
+            "caption": " Row of houses, in the middle, across a little bridge."
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33403,
+          58.01184
+        ]
+      },
+      "properties": {
+        "name": "Ruin 47",
+        "township": "Polglass",
+        "category": "Ruin",
+        "caption": "Row of houses, western of two middle ones",
+        "os_grid": "NC 03135 07379",
+        "altitude": "37",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0627-1.jpg",
+            "caption": " Row of houses, western of two middle ones"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45315,
+          58.07214
+        ]
+      },
+      "properties": {
+        "name": "Beach Modifications 02",
+        "township": "Reiff",
+        "category": "Beach Modifications",
+        "caption": "Loch of Reiff outflow stream, retaining wall",
+        "os_grid": "NB 96445 14441",
+        "altitude": "-2",
+        "photo_date": "2025-11-04",
+        "images": [
+          {
+            "file": "_DSC0660-1-3.jpg",
+            "caption": "Loch of Reiff outflow stream, retaining wall"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45063,
+          58.07079
+        ]
+      },
+      "properties": {
+        "name": "Beach Modifications 04",
+        "township": "Reiff",
+        "category": "Beach Modifications",
+        "caption": "Landing/launching shelter",
+        "os_grid": "NB 96586 14284",
+        "altitude": "1",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1030-1.jpg",
+            "caption": "Landing/launching shelter "
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45486,
+          58.07167
+        ]
+      },
+      "properties": {
+        "name": "Enclosure 08",
+        "township": "Reiff",
+        "category": "Enclosure",
+        "caption": "Enclosure on the west side of Reiff Bay",
+        "os_grid": "NB 96341 14394",
+        "altitude": "7",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1002-1.jpg",
+            "caption": "Enclosure on the west side of Reiff Bay"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45279,
+          58.07641
+        ]
+      },
+      "properties": {
+        "name": "Lazy Beds 01",
+        "township": "Reiff",
+        "category": "Lazy Beds",
+        "caption": "Lazy beds by Loch of Reiff, loch retaining wall and enclosure behind",
+        "os_grid": "NB 96490 14915",
+        "altitude": "11",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1017-1.jpg",
+            "caption": "Lazy beds by Loch of Reiff, loch retaining wall and enclosure behind"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45142,
+          58.07335
+        ]
+      },
+      "properties": {
+        "name": "Ruin 22",
+        "township": "Reiff",
+        "category": "Ruin",
+        "caption": "House building detail, East side of Loch of Reiff",
+        "os_grid": "NB 96554 14571",
+        "altitude": "8",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1029-1.jpg",
+            "caption": "House building detail, East side of Loch of Reiff"
+          },
+          {
+            "file": "_DSC8865-1.jpg",
+            "caption": "House, on east side of Loch of Reiff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.44967,
+          58.07058
+        ]
+      },
+      "properties": {
+        "name": "Ruin 23",
+        "township": "Reiff",
+        "category": "Ruin",
+        "caption": "Building on shore at Reiff - salmon bothy?",
+        "os_grid": "NB 96641 14257",
+        "altitude": "6",
+        "photo_date": "2025-03-08",
+        "images": [
+          {
+            "file": "_DSC8866-1.jpg",
+            "caption": "Building on shore at Reiff - salmon bothy?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45187,
+          58.07197
+        ]
+      },
+      "properties": {
+        "name": "Ruin 30",
+        "township": "Reiff",
+        "category": "Ruin",
+        "caption": "House in garden",
+        "os_grid": "NB 96519 14419",
+        "altitude": "7",
+        "photo_date": "2025-03-08",
+        "images": [
+          {
+            "file": "_DSC8863-1.jpg",
+            "caption": "House in garden"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4564,
+          58.07706
+        ]
+      },
+      "properties": {
+        "name": "Ruin 35",
+        "township": "Reiff",
+        "category": "Ruin",
+        "caption": "Lookout shelter? On the cliffs at Reiff",
+        "os_grid": "NB 96281 14999",
+        "altitude": "18",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1014-1.jpg",
+            "caption": "Lookout shelter? On the cliffs at Reiff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4509,
+          58.07182
+        ]
+      },
+      "properties": {
+        "name": "Ruin 49",
+        "township": "Reiff",
+        "category": "Ruin",
+        "caption": "Outline of possible building on the shore, by the \"parliament\" rock",
+        "os_grid": "NB 96576 14399",
+        "altitude": "9",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC0998-1.jpg",
+            "caption": "Outline of possible building on the shore, by the \"parliament\" rock"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45024,
+          58.0776
+        ]
+      },
+      "properties": {
+        "name": "Ruin 51",
+        "township": "Reiff",
+        "category": "Ruin",
+        "caption": "Wall and remains of possible small building, north end of the Loch of Reiff",
+        "os_grid": "NB 96647 15040",
+        "altitude": "4",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC1024-1.jpg",
+            "caption": "Wall and remains of possible small building, north end of the Loch of Reiff"
+          }
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45058,
+          58.07166
+        ]
+      },
+      "properties": {
+        "name": "Ruin 52",
+        "township": "Reiff",
+        "category": "Ruin",
+        "caption": "Outline of possible building on the shore",
+        "os_grid": "NB 96594 14380",
+        "altitude": "8",
+        "photo_date": "2025-12-05",
+        "images": [
+          {
+            "file": "_DSC0996-1.jpg",
+            "caption": "Outline of possible building on the shore"
+          }
+        ]
+      }
+    }
+  ]
+}
