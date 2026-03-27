@@ -232,8 +232,9 @@ function openDetail(feature) {
   lbImages = imgs;
   cardImgIndex = 0;
 
-  // Title
-  document.getElementById('card-title').textContent = p.caption || p.name;
+  // Title - use first image caption if available, otherwise site caption/name
+  const firstImgCaption = imgs.length > 0 && imgs[0].caption ? imgs[0].caption : null;
+  document.getElementById('card-title').textContent = firstImgCaption || p.caption || p.name;
 
   // Metadata rows
   const dms = `${toDMS(lat, true)}, ${toDMS(lng, false)}`;
