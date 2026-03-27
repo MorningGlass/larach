@@ -744,12 +744,12 @@
         "photo_date": "2025-06-03",
         "images": [
           {
-            "file": "_DSC9156-1.jpg",
-            "caption": "External render detail - salmon bothy Camas a' Bhothain between Achnahaird bay and Garvie Bay"
-          },
-          {
             "file": "_DSC_3432-1.jpg",
             "caption": "Salmon bothy Camas a' Bhothain between Achnahaird bay and Garvie Bay"
+          },
+          {
+            "file": "_DSC9156-1.jpg",
+            "caption": "External render detail - salmon bothy Camas a' Bhothain between Achnahaird bay and Garvie Bay"
           }
         ]
       }
