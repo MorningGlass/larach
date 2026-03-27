@@ -275,6 +275,10 @@ function renderCardImage(imgs, idx) {
 window.cardImgNav = function(dir) {
   cardImgIndex = (cardImgIndex + dir + lbImages.length) % lbImages.length;
   renderCardImage(lbImages, cardImgIndex);
+  // Update title with current image caption
+  if (lbImages[cardImgIndex] && lbImages[cardImgIndex].caption) {
+    document.getElementById('card-title').textContent = lbImages[cardImgIndex].caption;
+  }
 };
 
 function closeDetail() {
